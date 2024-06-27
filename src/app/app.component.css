@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+}
+
+video {
+  width: 640px; /* Ajusta el tamaño según sea necesario */
+  height: 480px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.table {
+  width: 100%;
+}
+
+.img-thumbnail {
+  max-width: 100px;
+  max-height: 100px;
+}
